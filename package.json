@@ -2,7 +2,7 @@
   "name": "simple-blog-app",
   "version": "1.0.0",
   "description": "A simple blog application with Node.js, Express, and MongoDB",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
